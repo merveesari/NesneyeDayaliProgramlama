@@ -1,0 +1,10 @@
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csprojAssemblyReference.cache
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\Merve\source\repos\WindowsFormsApp13\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
